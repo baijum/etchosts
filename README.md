@@ -1,0 +1,2 @@
+# etchosts
+gomock demo
